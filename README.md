@@ -38,18 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-variya&show_icons=true&locale=en" alt="ankit-variya" /></p>
 
 
-## 🏆 Achievements & Highlights
-
-- 🥇 Winner – Hackathon 2024 (AI Category)
-- 🌟 100+ stars on my open-source projects
-- 🧠 Contributed to 10+ public repositories
-- 📜 Certified in Node.js, React & Cloud Fundamentals
-- 🚀 Built and deployed 5 production-level apps
-
-![GitHub followers](https://img.shields.io/github/followers/spacecode?style=social)
-![GitHub stars](https://img.shields.io/github/stars/spacecode?style=social)
-
-
 
 
 <!--
